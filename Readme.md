@@ -101,7 +101,7 @@
 ## 🔥 Streak Stats  
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aarenrishikdevloper&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aarenrishikdevloper&theme=monokai&hide_border=true"/>
 </p>
 
 ---
