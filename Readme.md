@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer | Backend & App Development Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Aarenrishikdevloper&label=Profile%20views&color=0e75b6&style=flat" /> 
+ <img src="https://komarev.com/ghpvc/?username=rishikkashyap&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
