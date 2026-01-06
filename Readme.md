@@ -101,7 +101,7 @@
 ## 🔥 Streak Stats  
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Aarenrishikdevloper"/>
+  <img src="https://streak-stats.demolab.com?user=rishikkashyap&theme=tokyonight"/>
 </p>
 
 ---
